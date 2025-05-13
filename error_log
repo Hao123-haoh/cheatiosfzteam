@@ -1,0 +1,261 @@
+[28-Dec-2024 11:05:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method DB::real_escape_string() in /home/hx01732930618/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 11:07:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 11:07:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 11:07:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 11:07:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 11:07:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 11:07:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 11:07:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 11:07:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 11:07:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 11:07:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 11:07:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 11:07:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 11:07:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 11:07:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 11:07:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 11:07:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 11:08:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 11:08:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 11:08:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 11:08:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 11:08:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:10:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:12:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:18:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:18:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:18:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:18:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:18:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:18:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:18:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:18:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:28:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:28:08 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:28:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:28:08 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:33:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:33:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:33:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:33:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:33:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:33:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:33:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:33:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:34:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:34:08 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:34:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:34:08 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:34:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:34:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:34:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:34:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:34:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:34:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:36:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hx01732930618/public_html/libs/db.php on line 31
+[28-Dec-2024 12:36:52 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hx01732930618/public_html/libs/db.php on line 31
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:37:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:39:37 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hx01732930618/public_html/libs/db.php on line 31
+[28-Dec-2024 12:41:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hx01732930618/public_html/libs/db.php on line 31
+[28-Dec-2024 12:41:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:41:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:41:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:41:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:41:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hx01732930618/public_html/libs/db.php on line 31
+[28-Dec-2024 12:41:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method DB::escape() in /home/hx01732930618/public_html/resources/views/errors/license_error.php:50
+Stack trace:
+#0 /home/hx01732930618/public_html/index.php(58): require_once()
+#1 /home/hx01732930618/public_html/index.php(63): checkLicense(Object(DB), 'xAZn3oOD3HrIp5o...')
+#2 {main}
+  thrown in /home/hx01732930618/public_html/resources/views/errors/license_error.php on line 50
+[28-Dec-2024 05:42:03 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/hx01732930618/public_html/libs/db.php on line 31
+[28-Dec-2024 05:42:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/hx01732930618/public_html/libs/db.php on line 31
+[28-Dec-2024 12:42:20 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hx01732930618/public_html/libs/db.php on line 31
+[28-Dec-2024 12:42:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:42:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:42:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:42:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:42:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hx01732930618/public_html/libs/db.php on line 31
+[28-Dec-2024 12:42:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method DB::escape() in /home/hx01732930618/public_html/resources/views/errors/license_error.php:50
+Stack trace:
+#0 /home/hx01732930618/public_html/index.php(58): require_once()
+#1 /home/hx01732930618/public_html/index.php(63): checkLicense(Object(DB), 'xAZn3oOD3HrIp5o...')
+#2 {main}
+  thrown in /home/hx01732930618/public_html/resources/views/errors/license_error.php on line 50
+[28-Dec-2024 12:42:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hx01732930618/public_html/libs/db.php on line 31
+[28-Dec-2024 12:42:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:42:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:42:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:42:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:42:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:42:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:42:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:42:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:50:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:50:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:50:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:50:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type bool in /home/hx01732930618/public_html/libs/helper.php on line 1189
+[28-Dec-2024 12:51:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:51:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 16
+[28-Dec-2024 12:51:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined property: DB::$connection in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 12:51:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hx01732930618/public_html/index.php on line 17
+[28-Dec-2024 06:10:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'hx01732930618'@'localhost' (using password: NO) in /home/hx01732930618/public_html/libs/db.php on line 17
+[28-Dec-2024 06:10:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'hx01732930618'@'localhost' (using password: NO) in /home/hx01732930618/public_html/libs/db.php on line 17
+[28-Dec-2024 06:10:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'hx01732930618'@'localhost' (using password: NO) in /home/hx01732930618/public_html/libs/db.php on line 17
